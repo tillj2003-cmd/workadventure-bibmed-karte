@@ -766,7 +766,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"tilesets\/alle Tiles\/basic_tileset_and_assets_standard\/water_and_island_tiles_v2.png",
+         "image":"basic_tileset_and_assets_standard\/water_and_island_tiles_v2.png",
          "imageheight":256,
          "imagewidth":480,
          "margin":0,
@@ -1032,7 +1032,7 @@
         {
          "columns":4,
          "firstgid":121,
-         "image":"tilesets\/alle Tiles\/simple_tileset_32x32_version1.0\/assets_basic.png",
+         "image":"simple_tileset_32x32_version1.0\/assets_basic.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1045,7 +1045,7 @@
         {
          "columns":4,
          "firstgid":137,
-         "image":"tilesets\/alle Tiles\/simple_tileset_32x32_version1.0\/fence.png",
+         "image":"simple_tileset_32x32_version1.0\/fence.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1203,7 +1203,7 @@
         {
          "columns":16,
          "firstgid":153,
-         "image":"tilesets\/alle Tiles\/simple_tileset_32x32_version1.0\/tilesheet_basic.png",
+         "image":"simple_tileset_32x32_version1.0\/tilesheet_basic.png",
          "imageheight":320,
          "imagewidth":512,
          "margin":0,
@@ -1216,7 +1216,7 @@
         {
          "columns":2,
          "firstgid":313,
-         "image":"tilesets\/alle Tiles\/simple_tileset_32x32_version1.1\/Decorationspre.png",
+         "image":"simple_tileset_32x32_version1.1\/Decorationspre.png",
          "imageheight":128,
          "imagewidth":64,
          "margin":0,
@@ -1229,7 +1229,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"tilesets\/alle Tiles\/summer_plains_v1.0_standard\/assets.png",
+         "image":"summer_plains_v1.0_standard\/assets.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -1351,7 +1351,7 @@
         {
          "columns":6,
          "firstgid":753,
-         "image":"tilesets\/alle Tiles\/FarmAnimals Kopie.png",
+         "image":"FarmAnimals Kopie.png",
          "imageheight":256,
          "imagewidth":192,
          "margin":0,
@@ -1364,7 +1364,7 @@
         {
          "columns":8,
          "firstgid":801,
-         "image":"tilesets\/alle Tiles\/RetroCatsFree.png",
+         "image":"RetroCatsFree.png",
          "imageheight":435,
          "imagewidth":256,
          "margin":0,
@@ -1377,7 +1377,7 @@
         {
          "columns":8,
          "firstgid":905,
-         "image":"tilesets\/alle Tiles\/Cat-Sheet.png",
+         "image":"Cat-Sheet.png",
          "imageheight":1632,
          "imagewidth":256,
          "margin":0,
@@ -1390,7 +1390,7 @@
         {
          "columns":11,
          "firstgid":1313,
-         "image":"tilesets\/alle Tiles\/tileset-grassland-paths.png",
+         "image":"tileset-grassland-paths.png",
          "imageheight":364,
          "imagewidth":364,
          "margin":0,
@@ -1403,7 +1403,7 @@
         {
          "columns":4,
          "firstgid":1434,
-         "image":"tilesets\/alle Tiles\/PixelCatsFree.png",
+         "image":"PixelCatsFree.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1416,7 +1416,7 @@
         {
          "columns":16,
          "firstgid":1450,
-         "image":"tilesets\/alle Tiles\/beach_tiles.png",
+         "image":"beach_tiles.png",
          "imageheight":288,
          "imagewidth":512,
          "margin":0,
@@ -1429,7 +1429,7 @@
         {
          "columns":16,
          "firstgid":1594,
-         "image":"tilesets\/alle Tiles\/FreePack.png",
+         "image":"FreePack.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -1442,7 +1442,7 @@
         {
          "columns":8,
          "firstgid":1786,
-         "image":"tilesets\/alle Tiles\/Cat-Sheet.png",
+         "image":"Cat-Sheet.png",
          "imageheight":1632,
          "imagewidth":256,
          "margin":0,
@@ -1455,7 +1455,7 @@
         {
          "columns":8,
          "firstgid":2194,
-         "image":"tilesets\/alle Tiles\/Cat-Sheet.png",
+         "image":"Cat-Sheet.png",
          "imageheight":1632,
          "imagewidth":256,
          "margin":0,
